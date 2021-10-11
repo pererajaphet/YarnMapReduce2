@@ -1,0 +1,4 @@
+com\opstty\mapper\SpeciesMapperTest.class
+com\opstty\mapper\DistrictsTreesMapperTest.class
+com\opstty\mapper\TokenizerMapperTest.class
+com\opstty\reducer\IntSumReducerTest.class
